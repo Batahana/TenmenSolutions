@@ -213,7 +213,7 @@ h2 {
     padding: 3px 0;
     font-size: 14px;
     color: #000;
-    background: #F4f4f4;
+    background: #f4f4f4;
 }
 
 .top-bar i {
@@ -354,7 +354,7 @@ h2 {
     padding: 0 15px;
     border: none;
     background: none;
-    color: #FF6F61;
+    color: #FE980F;
     border-radius: 0 2px 2px 0;
 }
 
@@ -453,7 +453,7 @@ h2 {
 
 
 .header .navbar i {
-    color: #FF6F61;
+    color: #fe980F;
     width: 20px;
     text-align: center;
     margin-right: 8px;
@@ -949,7 +949,7 @@ h2 {
 }
 
 .product-view .product-search input:focus {
-    border-color: #FF6F61;
+    border-color: #FE980F;
 }
 
 .product-view .product-search button {
@@ -971,7 +971,7 @@ h2 {
 }
 
 .product-view .product-search button:hover {
-    background: #FF6F61;
+    background: #FE980F;
     color: #ffffff;
 }
 

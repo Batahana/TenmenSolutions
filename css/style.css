@@ -1,6 +1,9 @@
 /**********************************/
 /********** General CSS ***********/
-/**********************************/
+/*
+*********************************/
+
+
 body {
     color: #353535;
     font-family: 'Open Sans', sans-serif;
@@ -354,7 +357,7 @@ h2 {
     padding: 0 15px;
     border: none;
     background: none;
-    color: #FF6F61;
+    color: #FE980F;
     border-radius: 0 2px 2px 0;
 }
 
@@ -949,7 +952,7 @@ h2 {
 }
 
 .product-view .product-search input:focus {
-    border-color: #FF6F61;
+    border-color: #FE980F;
 }
 
 .product-view .product-search button {
@@ -971,7 +974,7 @@ h2 {
 }
 
 .product-view .product-search button:hover {
-    background: #FF6F61;
+    background: #FE980F;
     color: #ffffff;
 }
 

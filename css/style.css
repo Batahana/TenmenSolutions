@@ -103,9 +103,9 @@ h2 {
 }
 
 .btn {
-    color: #FF6F61;
+    color: #000;
     background: #ffffff;
-    border: 1px solid #FF6F61;
+    border: 1px solid #fe980F;
 }
 
 .mb-2{
@@ -115,8 +115,8 @@ h2 {
 .btn:hover,
 .btn:active,
 .btn:focus {
-    color: #ffffff;
-    background: #FF6F61;
+    color: #000;
+    background: rgba(254, 150, 15, 0.637) !important;
     box-shadow: none;
 }
 
@@ -483,7 +483,7 @@ h2 {
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    background: rgba(255, 111, 97, .7);
+    background: rgba(254, 150, 15, 0.637);
     transition: all 0.3s;
     z-index: 1;
 }
